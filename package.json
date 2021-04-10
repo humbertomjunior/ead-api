@@ -1,0 +1,24 @@
+{
+  "name": "ead-api",
+  "version": "0.0.1",
+  "description": "API de plataforma de ensiono à distância.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humbertomjunior/ead-api.git"
+  },
+  "keywords": [
+    "Plataforma",
+    "EAD",
+    "API"
+  ],
+  "author": "Humberto de Moraes Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humbertomjunior/ead-api/issues"
+  },
+  "homepage": "https://github.com/humbertomjunior/ead-api#readme"
+}
